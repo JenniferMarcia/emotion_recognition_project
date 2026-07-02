@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+pillow>=9.0
+numpy>=1.24
+
+# optional: needed for --test-dir (classification report / confusion matrix)
+scikit-learn>=1.0
+# optional: needed for --webcam
+opencv-python>=4.5
